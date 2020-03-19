@@ -2,8 +2,6 @@
     githubRepository
 </h1>
 
-![Farmers Market Finder Demo](apresentacao.gif)
-
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com:
