@@ -25,7 +25,7 @@ $ yarn install
 # Inicie o servidor
 $ yarn dev
 
-Execute o aplicativo no modo de desenvolvimento. <br>
+Execute o aplicativo no modo de desenvolvimento.
 Abra http://localhost:3030 para visualizá-lo no navegador.
 
 ```
