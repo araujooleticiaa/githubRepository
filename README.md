@@ -6,7 +6,12 @@
 
 Esse projeto foi desenvolvido com:
 
--  [React](https://pt-br.reactjs.org/)
+- React
+- Axios
+- React Icons
+- React Router Dom
+- Styled component
+
 
 ## :information_source: Como usar
 
