@@ -28,7 +28,7 @@ $ cd chatRealTime
 $ yarn install
 
 # Inicie o servidor
-$ yarn dev
+$ yarn start
 
 Execute o aplicativo no modo de desenvolvimento.
 Abra http://localhost:3030 para visualizá-lo no navegador.
