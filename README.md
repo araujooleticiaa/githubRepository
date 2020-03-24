@@ -22,7 +22,7 @@ Para clonar e executar este aplicativo, você precisará de Git, Node.js v10.16 
 $ git clone https://github.com/araujooleticiaa/githubRepository
 
 # Vá para o repositório 
-$ cd chatRealTime
+$ cd githubRepository
 
 # Instalar dependências
 $ yarn install
